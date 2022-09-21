@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Учеба\Mod2\Sem02\obj\Debug\net6.0\Sem02.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\Mod2\Sem02\obj\Debug\net6.0\Sem02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Учеба\Mod2\Sem02\obj\Debug\net6.0\Sem02.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Учеба\Mod2\Sem02\obj\Debug\net6.0\Sem02.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Учеба\Mod2\Sem02\obj\Debug\net6.0\Sem02.csproj.CoreCompileInputs.cache
