@@ -1,4 +1,6 @@
-﻿
+﻿// Написать программу премножения любых целых чисел.
+
+
 Console.WriteLine("Введите первое число для умножения:");
 string y = Console.ReadLine();
 int a = int.Parse(y);
